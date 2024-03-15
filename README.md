@@ -14,13 +14,16 @@
 <h2>Tools Used</h2>
 
 - <b>Tableau</b>
+- <b>SQL</b>
+- <b>Microsoft Excel</b>
  
 
 
 <h2>Environments Used </h2>
 
-- <b>Tableau Public</b> 
+- <b>Tableau Public</b>
+- <b>SQL Server Management Studio (SSMS)</b>
 - <b>Windows 10</b> 
 
-<b>Dashboard in Tableau [here](https://public.tableau.com/app/profile/priscilla.annor.gyamfi/viz/THEGREATBICYCLEBOOMOF2020_16638183730150/Dashboard1)
+<b>Dashboard in Tableau [here](https://public.tableau.com/app/profile/priscilla.annor.gyamfi/viz/NewProject_17097462809220/Dashboard12)
 </b>
