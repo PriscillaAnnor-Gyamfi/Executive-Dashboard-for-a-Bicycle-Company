@@ -15,7 +15,7 @@
 
 - <b>Tableau</b>
 - <b>SQL</b>
-- <b>Microsoft Excel</b>
+
  
 
 
