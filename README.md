@@ -7,11 +7,15 @@
 
 
 
+<h2>Key Findings</h2>
 
-
-
-
-
+- <b>The year 2017 stands out with the highest revenue, totaling 3.85 million dollars, which accounts for 40.79% of the total revenue generated between 2016 and 2018.</b>
+- <b>April emerges as the month with the highest revenue, reaching 1.35 million dollars, while December records the lowest revenue at 0.52 million dollars. This pattern could be attributed to increased bike purchases during the spring and summer seasons.</b>
+- <b>New York, NY leads in revenue, generating 5.83 million dollars, representing 68% of the total revenue, followed by California, CA. Conversely, Texas, TX records the lowest revenue. The high population density in New York could contribute to its dominance in sales.</b>
+- <b>Baldwin Bikes store tops the revenue chart with 67.91%, followed by Santa Cruz Bikes store at 20.87%, and Rowlett Bikes store with 11.22%. The location of Baldwin Bikes in New York likely contributes to its higher revenue.</b>
+- <b>Among the bike categories, Mountain bikes dominate sales, constituting 35.33% of total revenue, while Children bikes contribute the least at 3.82%.</b>
+- <b>Pamelia Newman emerges as the top customer, with a total revenue of $37.80K.</b>
+- <b>Marcelene Boyer stands out as the top Sales Rep, generating a total revenue of $2.94 million.</b>
 
 
 <p align="center">
