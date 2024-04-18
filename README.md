@@ -1,7 +1,7 @@
 <h1>Executive Dashboard for A Bicycle Company</h1>
 
 
-<h2>Problem Statement </h2>
+<h2>Overview </h2>
 
 <b>The bicycle company aims to enhance its sales analysis and decision-making process by developing an executive dashboard that provides comprehensive insights into sales performance and trends. The current lack of a centralized platform for analyzing revenue by month, store, state, category, top sales reps, and top customers hampers the company's ability to identify key opportunities for growth and optimize sales strategies effectively. Therefore, there is a need to develop an interactive executive dashboard that integrates data from various sources and presents it in a visually appealing and user-friendly format. This dashboard will enable stakeholders to gain actionable insights, make informed decisions, and drive business growth by leveraging sales data from the years 2016 to 2018.</b>
 
@@ -17,7 +17,22 @@
 - <b>Pamelia Newman emerges as the top customer, with a total revenue of $37.80K.</b>
 - <b>Marcelene Boyer stands out as the top Sales Rep, generating a total revenue of $2.94 million.</b>
 
+<h2>Key Metrics and Visualizations </h2>
 
+- <b>KPI's: I visualized the calculated total Revenue, Number of Units, Total Units and Total Customers from all stores and their respective location for the given period, 2016 through to 2018.</b>
+- <b>Profitability at a Glance: I ensured an easy way of navigating clear graphs of revenues by year, month, store, top customers, sales rep, category name and state. </b>
+- <b>Geographic Mapping: I visualized the revenue coverage geographically using maps to depict regional disparities .</b>
+
+
+<h2>Dashboard Features </h2>
+
+- <b>Interactive Filters: Allows users to filter data based on parameters such as year, state and N top customers with N indicating Number of top customers to be viewed.</b>
+- <b>Effective Visual Presentations: Empower users to delve into comprehensive data insights using easily understandable and succinct visual representations, including bar charts, line graphs, maps, and doughnut pie charts.</b>
+- <b>User-Friendly Interface: An intuitive and visually appealing dashboard layout with clear navigation and informative tooltips to enhance user experience.
+</b>
+
+
+<h2>A Screenshot of the Excecutive Dashboard </h2>
 <p align="center">
  <br/>
 <img src="https://i.imgur.com/0CBCdGt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
